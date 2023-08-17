@@ -8,7 +8,8 @@ Passionate and motivated 🚀 Full Stack Developer eager to kickstart a successf
 I enjoy taking up complex problems and turning them into simple and beautiful interface designs. 
 A passionate Full Stack Developer having an experience of building Websites with HTML, CSS, Bootstrap, JavaScript, PHP, Python and some other cool libraries and frameworks.</p>
 
-<div align="center" style="margin-top:20px;">
+<center>
+    <div align="center" style="margin-top:20px;">
     <a href="#contact" style="padding:10px;">
         <img height="40px" width="120px" src="https://img.shields.io/badge/contact-%23430098.svg?style=for-the-badge&logoColor=white">
     </a>
@@ -16,6 +17,7 @@ A passionate Full Stack Developer having an experience of building Websites with
         <img height="40px" width="100px" src="https://img.shields.io/badge/resume-%23430098.svg?style=for-the-badge&logoColor=white">
     </a>
 </div>
+</center>
  
 </div>
 
