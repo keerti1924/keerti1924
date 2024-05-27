@@ -55,7 +55,7 @@ A passionate Full Stack Developer having an experience of building Websites with
 <br>
 
 ## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keerti1924&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="keerti1924" /></a> </p>
+<p align="left"> <a href="https://github.com/keerti1924/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keerti1924&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="keerti1924" /></a> </p>
 <br>
 
 
