@@ -25,9 +25,9 @@ A passionate Full Stack Developer having an experience of building Websites with
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://keerti1924.github.io/Personal-Portfolio-Website/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://keerti1924.github.io/Portfolio-Website/)**
 
 - 💬 Ask me about anything, I am happy to help.
 
