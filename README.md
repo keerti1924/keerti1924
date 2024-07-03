@@ -149,8 +149,7 @@ A passionate Full Stack Developer having an experience of building Websites with
 [gog]: https://www.geeksforgeeks.org/
 [fcc]: https://www.freecodecamp.org/
 [sof]: https://stackoverflow.com/
-[repo]: https://github.com/codingstella?tab=repositories
-
+[repo]: https://github.com/keerti1924?tab=repositories
 <hr />
 
 
